@@ -1,0 +1,216 @@
+*{
+}
+#span1{
+    margin-left: 50px;
+ 
+}
+.a1{
+    margin-left: 30px;
+   
+    color: gray;
+    text-decoration: none;
+    font-size: 30px;
+  
+}
+.a1:hover{
+    color: black
+}
+ #sign{
+     margin-left: 150px;
+     text-decoration: none;
+     color: black;
+     font-size: 20px;
+     font-family: sans-serif;
+ }
+ #start{
+     margin-left: 10px;
+     text-decoration: none;
+     border: 1px solid black;
+     background-color: #3f46ad;
+     color: white;
+     padding: 10px;
+     border-radius: 5px;
+     font-family: sans-serif;
+ }
+ #div1{
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+#img1{
+ margin-top: 50px;
+}
+.span2{
+font-size: 20px;
+ float: right;
+margin-top: 40px;
+margin-right: 80px;
+}
+.span3{
+ color: gray;
+ font-size: 25px;
+}
+
+.span4{
+ font-size: 70px;
+ font-family: sans-serif;
+}
+#start2{
+                
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: #3f46ad;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    
+           }
+         #span5{
+             padding: 18px;
+             border-radius: 5px;
+             margin-right: 10px;
+             border: 1px solid gray;
+         }
+         .span6{
+             font-size: 12px;
+             color: gray;
+         }
+         #div3{
+             text-align: center;
+         }
+         .span7{font-size: 40px;}
+         .span8{color: gray;
+             font-family: sans-serif;
+           font-size: 20px}
+           .span9{
+               margin-left: 50px;
+           }
+           .span10{
+               margin-left: 20px;
+               font-family: sans-serif;
+           }
+           .span11{
+               font-size: 23px;
+               margin-left: 20px;
+           }
+           .span12{
+               font-size: 18px;
+               margin-left: 20px;
+               color: #3f46ad;
+               text-align: justify
+           }
+           .div4{float: left;}
+           #div5{
+            font-family: sans-serif;
+            font-size: 30px;
+            color: #3f46ad;
+            float: left;
+            margin-top: 50px;
+            margin-left: 100px;
+            margin-bottom: 50px;
+        }
+        #div6{
+            float: left;
+            margin-left: 30px;
+            padding: 50px;
+            background-image: url("trello.png");
+           
+        }
+        .h4{
+            font-size: 50px;
+            text-align: center;
+            margin-top: 30px;
+        }
+        .p6{
+            font-family: sans-serif;
+            color: gray;
+           margin-bottom: 20px;
+            text-align: center;
+            font-size: 25px;
+        }
+        .span13{
+            border: 1px solid white;
+            font-size: 20px;
+            text-align: left;
+            margin-right: 80px;
+            font-family: sans-serif;
+            margin-top: 20px;  
+            padding:30px 90px 30px 90px;
+            margin-left: 20px;
+            text-decoration: none;
+            color: black;
+            background-color: white;
+        }
+        .span13:hover{
+            background-color:#3f46ad;
+            color: white; 
+        }
+        .span14{
+            border: 1px solid white;
+            font-size: 20px;
+            text-align: left;
+            margin-right: 60px;
+            font-family: sans-serif;
+            margin-top: 20px;  
+            padding:30px 90px 30px 90px;
+            margin-left: 15px;
+            text-decoration: none;
+            color: black;
+            background-color: white;
+        }
+        .span14:hover{
+            background-color:#3f46ad;
+            color: white; 
+        }
+        .span15{
+            border: 1px solid white;
+            font-size: 20px;
+            text-align: left;
+            margin-right: 80px;
+            font-family: sans-serif;
+            margin-top: 20px;  
+            padding:30px 110px 30px 110px;
+            margin-left: 20px;
+            text-decoration: none;
+            color: black;
+            background-color: white;
+        }
+        .span15:hover{
+            background-color:#3f46ad;
+            color: white; 
+        }
+        #span16{
+            margin: 20px;
+        }
+        .span17{
+            border: 1px solid white;
+            font-size: 20px;
+            text-align: left;
+            margin-right: 50px;
+            font-family: sans-serif;
+            margin-top: 20px;  
+            padding:30px 120px 30px 120px;
+            margin-left: 40px;
+            text-decoration: none;
+            color: black;
+            background-color: white;
+        }
+        .span17:hover{
+            background-color:#3f46ad;
+            color: white; }
+        .span18{
+            border: 1px solid white;
+            font-size: 20px;
+            text-align: left;
+            margin-right: 60px;
+            font-family: sans-serif;
+            margin-top: 20px;  
+            padding:30px 120px 30px 120px;
+            margin-left: 20px;
+            text-decoration: none;
+            color: black;
+            background-color: white;
+        }
+        .div13:hover{
+            background-color:#3f46ad;
+            color: white; 
+        }
